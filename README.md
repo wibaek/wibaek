@@ -23,5 +23,4 @@
 ## Experience & Education
 
 - Software Maestro 16th · Backend development and agile collaboration
-- [Solid Connection](https://github.com/solid-connection) · Frontend, infrastructure, and backend development
 - Inha University · B.S. in Computer Science · 2020.03 – 2026.02
